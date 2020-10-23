@@ -1,0 +1,10 @@
+train: /home/hsy/research/car_lane/carTail_TT100K/images/train/
+val: /home/hsy/research/car_lane/carTail_TT100K/images/val
+
+# number of classes
+nc: 37
+
+# class names
+names: ['car', 'pn', 'pne', 'i5', 'p11', 'pl40', 'po', 'pl50', 'io', 'pl80', 'i4', 'p26', 'pl60', 'pl100', 'il60', 'pl5',
+                'pl30', 'i2', 'w57', 'il80', 'pl120', 'ip', 'p10', 'p5', 'p12', 'p3', 'p23', 'w55', 'pl70', 'il100',
+                'w13', 'p27', 'ph4.5', 'pl20', 'pm55', 'ph4', 'p6' ]

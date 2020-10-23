@@ -1,0 +1,3 @@
+#python train.py --weights "weights/yolov5s.pt" --cfg "models/yolov5s_car_tail.yaml" --data "data/car_tail.yaml" --epoch 90 --batch-size 128 --name "yolov5s_car_tail" --single-cls
+#python train.py --weights "weights/yolov5x.pt" --cfg "models/yolov5x_CCTSDB.yaml" --data "data/CCTSDB.yaml" --epoch 90 --batch-size 16 --name "yolov5X_TT100K"
+# python train.py --weights "weights/yolov5s.pt" --cfg "models/yolov5s_car_sign.yaml" --data "data/adas.yaml" --epoch 90 --batch-size 128 --name "yolov5s_CarTail_TT100K"

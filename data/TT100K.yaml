@@ -1,0 +1,19 @@
+train: /home/hsy/research/car_lane/TT100K/data/xunlian/images/train
+val: /home/hsy/research/car_lane/TT100K/data/xunlian/images/val
+
+# number of classes
+nc: 162
+
+# class names
+names: [ 'pn', 'pne', 'i5', 'p11', 'pl40', 'po', 'pl50', 'io', 'pl80', 'i4', 'p26', 'pl60', 'pl100', 'il60', 'i2',
+         'pl30', 'pl5', 'w57', 'il80', 'pl120', 'ip', 'p10', 'p5', 'p12', 'p3', 'p23', 'w55', 'pl70', 'il100',
+         'p27', 'ph4.5', 'pl20', 'w13', 'pm55', 'ph4', 'p6', 'ph5', 'wo', 'w59', 'pg', 'pm20', 'il90', 'pr40',
+         'p19', 'pm30', 'w32', 'pb', 'pa14', 'w30', 'w58', 'p9', 'p25', 'pl15', 'pl90', 'p1', 'w63', 'p18', 'i10',
+         'p22', 'p14', 'il50', 'w22', 'pl110', 'ps', 'p17', 'pl10', 'ph4.2', 'pa13', 'ph3', 'il110', 'pr60', 'p16',
+         'w3', 'w21', 'pr20', 'w47', 'i13', 'pr50', 'pw3.2', 'il70', 'pm10', 'p2', 'p8', 'pr30', 'ph2.2', 'i12',
+         'ph2.5', 'pm15', 'w45', 'pw4', 'ph3.5', 'w20', 'w16', 'w46', 'i1', 'w18', 'w15', 'pl25', 'ph2', 'w42',
+         'pm2', 'w41', 'p13', 'pa10', 'pm35', 'ph4.8', 'pr70', 'p15', 'pl35', 'ph4.3', 'i3', 'i14', 'pw3', 'pm5',
+         'p4', 'w34', 'pm40', 'pm50', 'ph2.8', 'pr80', 'pa12', 'w35', 'i11', 'pw4.5', 'i15', 'w24', 'w10', 'pr45',
+         'p28', 'ph2.9', 'ph3.2', 'p21', 'p20', 'ph1.5', 'w12', 'w37', 'pr100', 'pw3.5', 'pm8', 'w38', 'ph2.4',
+         'pl0', 'pm2.5', 'w8', 'ph5.3', 'pa8', 'w28', 'ph2.1', 'w66', 'p24', 'w5', 'pw2.5', 'pl3', 'w43', 'w56',
+         'pr10', 'pm13', 'pw4.2', 'pw2', 'ph5.5', 'w2', 'ph3.8' ]
